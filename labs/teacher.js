@@ -1,0 +1,1 @@
+console.info(`You're in the console now. Make sure you can see what I should see!`);
